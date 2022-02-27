@@ -1,0 +1,178 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Parliaments desires to the Earl of Warwicke wherein is declared their resolutions concerning his going in person to Hull, with 6. or 8. ships. Together with the Earl of Warwicks answer to the Parliaments commands. Also a letter from the Earl of Warwick to the High Court of Parliament, read in the House of Commons upon Monday, concerning his taking of two ships upon the sea, there being in one 42. pieces of ordinance, and great store of ammunition for warre. With the Parliaments determination concerning all those that shall take up arms. Ordered that this be printed and published. Hen. Elsing. Cler. Parl. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 7 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83352</idno>
+            <idno type="STC">Wing E2135B</idno>
+            <idno type="STC">ESTC R231805</idno>
+            <idno type="EEBO-CITATION">99897490</idno>
+            <idno type="PROQUEST">99897490</idno>
+            <idno type="VID">133267</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83352)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133267)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2498:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Parliaments desires to the Earl of Warwicke wherein is declared their resolutions concerning his going in person to Hull, with 6. or 8. ships. Together with the Earl of Warwicks answer to the Parliaments commands. Also a letter from the Earl of Warwick to the High Court of Parliament, read in the House of Commons upon Monday, concerning his taking of two ships upon the sea, there being in one 42. pieces of ordinance, and great store of ammunition for warre. With the Parliaments determination concerning all those that shall take up arms. Ordered that this be printed and published. Hen. Elsing. Cler. Parl. D. Com.</title>
+                  <author>Warwick, Robert Rich, Earl of, 1587-1658.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>July 21. London, printed for Edward Iohnson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hotham, John, --  Sir, d. 1645 Jan. 2 --  Early works to 1800.</term>
+               <term>Warwick, Robert Rich, --  Earl of, 1587-1658 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-04</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:133267:1" rendition="simple:additions"/>
+            <p>THE PARLIAMENTS DESIRES TO THE EARL OF <hi>WARWICKE:</hi> Wherein is Declared their Reſolutions concer<g ref="char:EOLhyphen"/>ning his going in Perſon to <hi>Hull,</hi> with 6. or 8. ſhips.</p>
+            <p>Together with the Earl of <hi>Warwicks</hi> Anſwer to the Parliaments Commands.</p>
+            <p>Alſo a Letter from the Earl of <hi>Warwick</hi> to the High Court of <hi>Parliament,</hi> read in the Houſe of Commons upon <hi>Monday,</hi> concerning his taking of two ſhips upon the Sea, there being in one 42. Pieces of Ordinance, and great ſtore of Ammu<g ref="char:EOLhyphen"/>nition for Warre.</p>
+            <p>With the <hi>Parliaments</hi> Determination concer<g ref="char:EOLhyphen"/>ning all thoſe that ſhall take up Arms.</p>
+            <p>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Ordered that this be printed and publiſhed.</p>
+                        <closer>
+                           <signed>Hen. Elſing. Cler. Parl. D. Com.</signed>
+                        </closer>
+                     </div>
+                  </body>
+               </floatingText>
+            </p>
+            <p>July 21. <hi>LONDON,</hi> Printed for Edward Iohnſon.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:133267:2"/>
+            <pb facs="tcp:133267:2"/>
+            <head>THE <hi>Earle of</hi> Warwicks <hi>Reſolution concerning Sir</hi> John Hotham.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Any and ſundry times hath flying Reports arrived in this King<g ref="char:EOLhyphen"/>dome, and hath ſo farre dived into the hearts of the Subjects of this Nation, that they have bin much perplexed in mind, fearing a forreign in<g ref="char:EOLhyphen"/>vaſion.</p>
+            <p>But praiſed be God he hath prevented theſe Deſigns, and hath of his gracious af<g ref="char:EOLhyphen"/>fection which he bears to this Iland, be<g ref="char:EOLhyphen"/>ſtowed his bleſſings in abundance upon us, proſpering us with ſuch gracious gifts, that no Nations under the Sun ever en<g ref="char:EOLhyphen"/>joyed the like.</p>
+            <p>And hath alſo out of his Divine Provi<g ref="char:EOLhyphen"/>dence
+<pb facs="tcp:133267:3"/>diſcovered many deſperate Deſigns, which were plotted and intended againſt this Kingdom.</p>
+            <p>And hath alſo diſcovered many more Helliſh Conſpiracies, plotted by great per<g ref="char:EOLhyphen"/>ſons that were in emminent places, who when he ſee a ſit and convenient time, diſ<g ref="char:EOLhyphen"/>cloſed their wicked intentions, and revea<g ref="char:EOLhyphen"/>led it to the hearts of this our Honoura<g ref="char:EOLhyphen"/>ble Aſſembly, who out of their vigilant &amp; judicious Care diſanulled them of their places, and hath choſen many worthy, pi<g ref="char:EOLhyphen"/>ous, and Religious men for the enjoying therof.</p>
+            <p>But becauſe I will not deviate too ſarre from my intended purpoſe, I will now proceed to my following Relation.</p>
+            <p>Both Houſes having taken in conſide<g ref="char:EOLhyphen"/>ration the Affairs of <hi>Hull,</hi> ſent a Meſſage to the Earl of <hi>Warwick,</hi> concerning the ſame.</p>
+            <p>And they alſo received Letters from the ſaid Earl, which were read in the audience of both houſes, informing them, how that he had taken one of the Kings ſhips cal<g ref="char:EOLhyphen"/>led the <hi>Lyon,</hi> which was comming from
+<pb facs="tcp:133267:3"/>
+               <hi>Holland</hi> with great ſtore of Ammunition, and as he thought, and conjectured, bound for the <hi>North.</hi>
+            </p>
+            <p>In which ſhip were Prince <hi>Robert,</hi> and his Brother Prince <hi>Maurice</hi> ſhipped to come for <hi>England,</hi> but being taken ſick at Sea, and troubled with an extreame vomi<g ref="char:EOLhyphen"/>ting of Blood, they returned back, and lan<g ref="char:EOLhyphen"/>ded again in another part of <hi>Holland.</hi>
+            </p>
+            <p>But the Captain of the ſhip having in<g ref="char:EOLhyphen"/>telligence that the Ear of <hi>Warwick</hi> had de<g ref="char:EOLhyphen"/>livered up the Navie to the King, and that it was now under the Command of Sir <hi>John Pennington,</hi> came very couragiouſly amongſt the ſhips, and very boldly came aboord the Admirall, where he finding the Earl of <hi>Warwicke,</hi> and underſtanding hee had ſtill the Charge of the Navie <hi>(which he would not beleeve untill he had ſeed his Com<g ref="char:EOLhyphen"/>miſſion)</hi> was much amazed, and at the firſt refuſed to ſubmit himſelf, but the Earle of <hi>Warwick</hi> took him Priſoner, and poſſeſſed himſelfe of his ſhip and Ammunition, wherin was 42. pieces of Ordinance, with a great quantiry of other proviſions.</p>
+            <pb facs="tcp:133267:4"/>
+            <p> Hee alſo informed by the ſaid Letters, that hee had taken another ſhip loaden with Powder, and in it many other things belonging to warre, which was alſo bound for the North.</p>
+            <p>And upon <hi>Tueſday</hi> both Houſes Orde<g ref="char:EOLhyphen"/>red, that there ſhould a Meſſage forthwith be ſent with all ſpeed to the Earl of <hi>War<g ref="char:EOLhyphen"/>wicke,</hi> informing him the will and plea<g ref="char:EOLhyphen"/>ſure of both Houſes, which was, that hee ſhould take ſix or eight ſhips, and go him<g ref="char:EOLhyphen"/>ſelf down to <hi>HUL,</hi> and lye thereabouts to relieve Sir <hi>John Hotham.</hi>
+            </p>
+            <p>And alſo Ordered, That he ſhould bring from <hi>HULL</hi> all ſuch great Saddles as are there, or other Furuiture for Horſe or Horſemen, and the four Priſoners that Sir <hi>John Hotham</hi> tooke in a ſhip going for <hi>Holland.</hi>
+            </p>
+            <p>The Earl of <hi>Warwick</hi> having received this Command from both Houſes, Hee called a Councell of Warre, and after ſome Debate therof, he reſolved to ſend an An<g ref="char:EOLhyphen"/>ſwer to the ſaid Meſſage, informing that he had called a Counſell of Warre to con<g ref="char:EOLhyphen"/>ſult
+<pb facs="tcp:133267:4"/>of their laſt Commands concerning his going to <hi>Hull,</hi> but found that he could not conveniently go himſelf, partly be<g ref="char:EOLhyphen"/>cauſe his ſhip was of ſo great Burthen, ſhe could not ſafely ride in that ſhallow Wa<g ref="char:EOLhyphen"/>ter to continue but he had ſent two of his ſhips, and would take order to ſend o<g ref="char:EOLhyphen"/>thers after them, who ſhould carefully ob<g ref="char:EOLhyphen"/>ſerve their Commands in all points, and fulfill it accordingly.</p>
+            <p>And likewiſe certified them, that he had ſent three other ſhips to <hi>HULL</hi> to re<g ref="char:EOLhyphen"/>lieve Sir <hi>John Hotham,</hi> and deſired them, that they would bee pleaſed to ſend him moneyes with all ſpeed, for to pay certain Captains diſcharged by him, by reaſon that they refuſe to obey his Command.</p>
+            <p>Wherupon both Houſes Ordered, That there ſhould be fifteen hundred pounds forthwith ſent.</p>
+            <p>Where it was alſo Voted, and joyntly concluded of, that the ſaid Earl ſhould have Thanks returned unto him for that good ſervice, which was according concluded of and a Meſſenger fortwith diſpatched.</p>
+            <pb facs="tcp:133267:5" rendition="simple:additions"/>
+            <p> 
+               <hi>Both Houſes reſolved, That when ſoever the King maketh War upon the Parliament, it is a Breach of the Truſt repoſed in him by his peo<g ref="char:EOLhyphen"/>ple, contrary to his Oath, and tending to the diſ<g ref="char:EOLhyphen"/>ſolution of this Government.</hi>
+            </p>
+            <p>
+               <hi>And alſo Reſolved. That whoſoever ſhall ſerve or aſſiſt him in ſuch Warres, are Tray<g ref="char:EOLhyphen"/>tors, &amp;c.</hi>
+            </p>
+            <p>Ordered that this be printed and publiſhed.</p>
+            <closer>
+               <signed>John Brown Cler. Parl.</signed>
+            </closer>
+         </div>
+      </body>
+   </text>
+</TEI>
